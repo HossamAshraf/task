@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/HossamAshraf/elevate-task/static/css/main.71b5d52d.css",
-    "main.js": "/HossamAshraf/elevate-task/static/js/main.72ca12bc.js",
-    "static/js/453.364c3cf5.chunk.js": "/HossamAshraf/elevate-task/static/js/453.364c3cf5.chunk.js",
-    "static/media/fa-solid-900.ttf": "/HossamAshraf/elevate-task/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
-    "static/media/fa-brands-400.ttf": "/HossamAshraf/elevate-task/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
-    "static/media/fa-solid-900.woff2": "/HossamAshraf/elevate-task/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
-    "static/media/fa-brands-400.woff2": "/HossamAshraf/elevate-task/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
-    "static/media/error.svg": "/HossamAshraf/elevate-task/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
-    "static/media/fa-regular-400.ttf": "/HossamAshraf/elevate-task/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
-    "static/media/fa-regular-400.woff2": "/HossamAshraf/elevate-task/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
-    "static/media/fa-v4compatibility.ttf": "/HossamAshraf/elevate-task/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
-    "static/media/fa-v4compatibility.woff2": "/HossamAshraf/elevate-task/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
-    "index.html": "/HossamAshraf/elevate-task/index.html",
-    "main.71b5d52d.css.map": "/HossamAshraf/elevate-task/static/css/main.71b5d52d.css.map",
-    "main.72ca12bc.js.map": "/HossamAshraf/elevate-task/static/js/main.72ca12bc.js.map",
-    "453.364c3cf5.chunk.js.map": "/HossamAshraf/elevate-task/static/js/453.364c3cf5.chunk.js.map"
+    "main.css": "/HossamAshraf/static/css/main.b4262a70.css",
+    "main.js": "/HossamAshraf/static/js/main.b75bc287.js",
+    "static/js/453.364c3cf5.chunk.js": "/HossamAshraf/static/js/453.364c3cf5.chunk.js",
+    "static/media/fa-solid-900.ttf": "/HossamAshraf/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/HossamAshraf/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/HossamAshraf/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/HossamAshraf/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/error.svg": "/HossamAshraf/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/fa-regular-400.ttf": "/HossamAshraf/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/HossamAshraf/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/HossamAshraf/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/HossamAshraf/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/HossamAshraf/index.html",
+    "main.b4262a70.css.map": "/HossamAshraf/static/css/main.b4262a70.css.map",
+    "main.b75bc287.js.map": "/HossamAshraf/static/js/main.b75bc287.js.map",
+    "453.364c3cf5.chunk.js.map": "/HossamAshraf/static/js/453.364c3cf5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71b5d52d.css",
-    "static/js/main.72ca12bc.js"
+    "static/css/main.b4262a70.css",
+    "static/js/main.b75bc287.js"
   ]
 }
