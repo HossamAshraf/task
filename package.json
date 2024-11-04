@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/HossamAshraf/elevate-task",
-  "name": "elevate-task",
+  "homepage": "https://github.com/HossamAshraf/elevate",
+  "name": "elevate",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
